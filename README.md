@@ -38,3 +38,7 @@ TEST DATA:
 01101010
 01101011
 ```
+
+Attempt: (^0)|(0$)
+
+It still grabs the ones that start with zero though.
